@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600">
+  <rect x="0" y="0" width="100%" height="100%" fill="#0f1321" stroke="white" stroke-width="1" rx="8" ry="8" />
+  <line x1="0" y1="90" x2="400" y2="90" stroke="white" stroke-width="1" />
+  <g>
+    <text x="20" y="40" fill="white" font-size="24">Now</text>
+    <text x="20" y="70" fill="white" font-size="18">Birth chart</text>
+
+    <!-- Section 1: Birth date and time -->
+    <text x="20" y="120" fill="white" font-size="18">Birth date and time</text>
+    <text x="20" y="150" fill="white" font-size="14">2024/9/6 @ 12:12</text>
+
+    <!-- Section 2: Birth place -->
+    <text x="20" y="190" fill="white" font-size="18">Birth place</text>
+    <text x="20" y="215" fill="white" font-size="14">London, GB</text>
+    <text x="20" y="235" fill="white" font-size="14">Timezone: Etc/UTC</text>
+    <text x="20" y="255" fill="white" font-size="14">Latitude: 51.5074°</text>
+    <text x="20" y="275" fill="white" font-size="14">Longitude: 0.1278°</text>
+
+    <!-- Section 3: Chart details -->
+    <text x="20" y="360" fill="white" font-size="18">Chart details</text>
+    <text x="20" y="390" fill="white" font-size="14">Zodiac Type: Tropic</text>
+    <text x="20" y="420" fill="white" font-size="14">Perspective: Apparent Geocentric</text>
+    <text x="20" y="450" fill="white" font-size="14">House System: Placidus</text>
+
+    <!-- Section 4: Moon Phase -->
+    <text x="20" y="500" fill="white" font-size="18">Moon Phase</text>
+    <text x="20" y="530" fill="white" font-size="14">Phase Day: 3</text>
+    <text x="20" y="560" fill="white" font-size="14">Waxing Crescent 🌒</text>
+  </g>
+</svg>
